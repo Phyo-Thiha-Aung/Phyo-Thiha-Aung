@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @PhyoThiha-Aung
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning ReactJs
+- 🌱 I’m currently learning TypeScript
 - 📫 phyothiha050@gmail.com
